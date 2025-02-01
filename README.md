@@ -18,10 +18,7 @@ Welcome to my **100 Days of Python in Medical Imaging** repository! This is a co
      ```bash
      pip install medmnist matplotlib numpy
      ```
-  2. Run the script:
-     ```bash
-     python day1.py
-     ```
+
 
 ## How to Use This Repository
 - Each day’s project will be added to a separate folder (e.g., `Day1_Loading_and_Visualizing_Medical_Images`).
