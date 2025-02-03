@@ -19,6 +19,21 @@ Welcome to my **100 Days of Python in Medical Imaging** repository! This is a co
      pip install medmnist matplotlib numpy
      ```
 
+### Day 2: Image Preprocessing
+- **Description**: Applied image preprocessing techniques like resizing, normalization, and augmentation to the ChestMNIST dataset.
+- **Files**:
+  - `day2.py`: Python script for image preprocessing.
+  - `resized_chest_xray.png`: Resized chest X-ray image.
+  - `augmented_chest_xray.png`: Augmented chest X-ray image.
+- **How to Run**:
+  1. Install the required libraries:
+     ```bash
+     pip install medmnist matplotlib numpy torch torchvision
+     ```
+  2. Run the script:
+     ```bash
+     python day2.py
+     ```
 
 ## How to Use This Repository
 - Each day’s project will be added to a separate folder (e.g., `Day1_Loading_and_Visualizing_Medical_Images`).
